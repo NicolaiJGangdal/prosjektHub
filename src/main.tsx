@@ -33,7 +33,7 @@ const router = createBrowserRouter(
       ],
     },
   ],
-  { basename: '/' },
+  { basename: '/prosjektHub/' },
 )
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
